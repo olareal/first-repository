@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    font-size: 40px;
+}
+.black{
+    height: 300px;
+    width: 200px;
+    background-color: bisque;
+}
+footer{
+    height: 200px;
+    width: 2000px;
+    background: brown;
+}
+
+#tall{
+    height: 1000px;
+    width: 200px;
+    background: cadetblue;
+}
+
+nav{
+    width: 50%;
+    height: 100px;
+    margin: 0px auto;
+    background: crimson;
+}
